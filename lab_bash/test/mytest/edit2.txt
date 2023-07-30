@@ -1,0 +1,3 @@
+total 0
+-rw-r--r-- 1 petch petch 0 Jul 27 13:22 edit1.txt
+-rw-r--r-- 1 petch petch 0 Jul 27 13:22 edit2.txt
